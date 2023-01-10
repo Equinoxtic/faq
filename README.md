@@ -13,10 +13,10 @@
 * Haxe
 * Python
 
-### References:
-	- [C](https://en.wikipedia.org/wiki/C_(programming_language)) / [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-	- [Haxe](https://en.wikipedia.org/wiki/Haxe)
-	- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+### References
+* [C](https://en.wikipedia.org/wiki/C_(programming_language)) / [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* [Haxe](https://en.wikipedia.org/wiki/Haxe)
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## How long have I been programming?
 * For more than three years, about to become four
