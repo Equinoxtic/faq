@@ -8,6 +8,9 @@
 ## Code Editor?
 * [NeoVim](https://github.com/neovim/neovim) w/ [Packer (for plugins)](https://github.com/wbthomason/packer.nvim)
 
+## Terminal?
+* [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal) w/ [Git Bash](https://git-scm.com/downloads)
+
 ## Favorite Progamming Languages?
 * C and C++
 * Haxe
