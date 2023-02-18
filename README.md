@@ -6,7 +6,7 @@
 * Windows 10 (feel free to hate on me)
 
 ## Code Editor?
-* [NeoVim](https://github.com/neovim/neovim) w/ [Packer (for plugins)](https://github.com/wbthomason/packer.nvim)
+* [VSCodium](https://vscodium.com/)
 
 ## Terminal?
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal) w/ [Git Bash](https://git-scm.com/downloads)
