@@ -30,4 +30,5 @@ References:
 
 ## What do I do for a living?
 * I program
+* I do school (at highschool atm)
 
